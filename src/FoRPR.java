@@ -1,0 +1,5 @@
+public class FoRPR {
+    public static void main(String[] args) {
+        System.out.println("This is private");
+    }
+}
